@@ -17,4 +17,7 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 * G
 * H
 
+*Esto es un texto en negrilla*
+
+
 ![Real Madrid](https://user-images.githubusercontent.com/70548139/138173735-6d4e2b0e-d99e-4b16-9688-980646549bb6.png)
